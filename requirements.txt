@@ -1,0 +1,13 @@
+firebase-admin
+pandas
+python-dotenv
+
+transformers
+torch
+torchvision
+torchaudio
+sentencepiece
+
+sentence-transformers
+scikit-learn
+numpy
